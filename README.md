@@ -2,7 +2,7 @@
 Development of a Dark Web Leak Notification and OSINT Collection System
 
 
-디스코드봇은 db로 관리되어서 해당 코드로 뭐 아무것도 실행 안하셔도 됩니다
+디스코드봇은 db로 관리되어서 해당 코드로 아무것도 실행 안하셔도 됩니다
 예를들어  개인 봇을 만든다고 하시면 ..
 1.가상환경에서 main.py 실행
 2.공유폴더에 디렉토리 지정해서 저장
