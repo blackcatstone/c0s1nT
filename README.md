@@ -20,6 +20,8 @@ Development of a Dark Web Leak Notification and OSINT Collection System
 - database2.py : db main file  
 - tormain.py : discord main bot file
 
+---
+
 목표 : 다크웹 유출 정보 알림 시스템 개발  
 인원 : 3명  
 역할 : 팀장(PM) / 크롤러 및 디스코드 봇 개발  
